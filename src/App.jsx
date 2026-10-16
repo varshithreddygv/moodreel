@@ -188,7 +188,7 @@ function App() {
       {step === 'skipMessage' && (
         <section className="chat-screen skip-message">
           <p className="eyebrow">MOODREEL HAS NOTICED 👀</p>
-          <h1>Manam anukunanta best kaadu annamatta 💔😂</h1>
+          <h1>Manam anukunanta best friends kaadu annamatta 💔😂</h1>
           <p>
             Sare le... maatladakapoyina parledhu.
             Cinema tho baadha marchipodham! 🎬
